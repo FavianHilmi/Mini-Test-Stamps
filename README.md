@@ -8,7 +8,7 @@ Repository ini berisi penyelesaian untuk **Mini Test 1** (Small Program) dan **M
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/FavianHilmi/Mini-Test---Stamps.git](https://github.com/FavianHilmi/Mini-Test---Stamps.git)
+git clone [https://github.com/FavianHilmi/Mini-Test---Stamps.git](https://github.com/FavianHilmi/Mini-Test-Stamps.git)
 cd "Mini Test - Stamps"
 ```
 
